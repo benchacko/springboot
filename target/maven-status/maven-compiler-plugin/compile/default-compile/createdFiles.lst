@@ -1,0 +1,10 @@
+com/chacko/ben/jpatest/JPATestApplication.class
+com/chacko/ben/jpatest/JPAVehicle.class
+com/chacko/ben/jpatest/JPAUser.class
+com/chacko/ben/jpatest/JPATestController.class
+com/chacko/ben/jpatest/JPAVehicleService.class
+com/chacko/ben/jpatest/JPAVehicleData.class
+com/chacko/ben/jpatest/JPAUserService.class
+com/chacko/ben/jpatest/JPARepository.class
+com/chacko/ben/jpatest/JPAUserRepository.class
+com/chacko/ben/jpatest/JPAUserData.class
